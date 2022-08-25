@@ -1,4 +1,4 @@
-<h1 align="center">Cloning the TikTok interface</h1>
+<h1 align="center">vennverse</h1>
 
 <h1 align="center">
     <img alt="React logo" width="70px" height="50px" src="https://github.com/luizpaulogroup/react-native-tiktok/blob/master/src/assets/react.png" />
@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-    <img width="250px" src="https://github.com/luizpaulogroup/TikTok/blob/master/src/Images/GIF.gif" style="max-width:100%;">
+    <img width="250px" src="/workspace/VennverseNative-APP/src/Images/GIF.gif" style="max-width:100%;">
     <img width="250px" src="https://github.com/luizpaulogroup/TikTok/blob/master/src/Images/1.png" style="max-width:100%;">
     <img width="250px" src="https://github.com/luizpaulogroup/TikTok/blob/master/src/Images/2.png" style="max-width:100%;">
 </h1>
@@ -40,24 +40,4 @@ This project was developed with the technologies:
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node](https://nodejs.org/en/) or [Yarn](https://yarnpkg.com/). From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/luizpaulogroup/react-native-spotify
-
-# Go into the repository
-$ cd react-native-spotify
-
-# Install dependencies
-$ yarn install
-
-# Run the app (iOS)
-$ react-native run-ios --simulator="iPhone XS Max"
-
-# Run the app (Android)
-$ react-native run-android
-
-```
-
----
-
-Made with ♥ by Luiz Paulo :wave: [Get in touch!](https://www.linkedin.com/in/luizpaulogroup/)
 # VennverseNative-APP
